@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "5f31877a-768c-47ea-81d4-d4dcaa3e6f28")
-	(paper "A4")
+	(paper "A3")
 	(lib_symbols
 		(symbol "AD7768_Digitizer_SLib:DC37_Receptacle"
 			(pin_names
