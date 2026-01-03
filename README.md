@@ -1,5 +1,5 @@
 # breakout-board-db37
-PCB that breaks out 32 signals across 2 DB37 connectors ideally in a 1U space
+PCB that breaks out 32 signals across 2 DB37 connectors and fits within a 2U space
 
 Digikey links:
 
